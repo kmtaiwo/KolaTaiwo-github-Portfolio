@@ -1,4 +1,4 @@
-# KT_Portfolio_Website
+# Kola Taiwo Portfolio as Data Analyst
 Kola's data science projects portfolio
 
 # 1. Project to Apply Naive Bayes to build SMS Spam Filter
